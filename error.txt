@@ -1,0 +1,13 @@
+----------------------------------------------------
+Error Line: 8
+Error Message: (1049, "Unknown database 'student_management_system'")
+Error Type: OperationalError
+------------------------------------------------------
+----------------------------------------------------
+Error Line: 8
+Error Message: (1049, "Unknown database 'student_management_system'")
+Error Type: OperationalError
+Class Name: DBConnection
+Method Name: connection
+Other Info: 
+------------------------------------------------------
